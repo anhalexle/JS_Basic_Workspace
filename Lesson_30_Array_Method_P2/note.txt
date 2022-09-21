@@ -1,0 +1,9 @@
+forEach() - duyệt qua từng phần tử của mảng
+every() - kiểm tra các phần tử của mảng phải thỏa mảng một điều kiện nào
+đó và trả về kiểu boolean
+some() - ngược lại với every chỉ cần một phần tử đúng sẽ trả về
+boolean true
+find() - tìm kiếm một phần tử trong mảng
+filter() - tìm kiếm tất cae các phần tử thoa mảng trong mảng
+map() - chỉnh sửa, thay đổi element của 1 mảng array và trả về array đã được chỉnh sửa
+reduce() - thu lại giá trị cuối sau khi tính toán một giá trị nào đó dựa trên các phần tử trong mảng
